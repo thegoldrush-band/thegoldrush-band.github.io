@@ -27,6 +27,6 @@ Alsook heeft het album verschijdenen positieve recensies ontvangen voor zijn inn
 
 ## Contact
 
-- [email: ](mail:booking@thegoldrush.be)
-- [Facebook-page: ](https://www.facebook.com/profile.php?id=61554217576294)
+- email: <booking@thegoldrush.be>
+- Fb: <https://www.facebook.com/profile.php?id=61554217576294>
 
