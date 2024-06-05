@@ -1,7 +1,11 @@
 @import "normalize";
 @import "rouge-github";
-@import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #bf9000 !default;
+$header-bg-color-secondary: #d8bc66 !default;
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
